@@ -18,14 +18,3 @@ To improve data organization and facilitate further analysis, we broke down the 
 
 Duplicates can distort analysis results and lead to incorrect conclusions. To clean up the dataset, we identified duplicate entries using the ROW_NUMBER function in SQL and subsequently removed them. This step helps maintain data accuracy and consistency.
 
-## Repository Contents:
-
-- `nashville_housing.csv`: The cleaned dataset in CSV format.
-
-## How to Use:
-
-1. Clone the repository to your local machine.
-
-```bash
-git clone https://github.com/your-username/nashville-housing-cleanup.git
-cd nashville-housing-cleanup
